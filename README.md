@@ -73,7 +73,10 @@ As seguintes fontes abertas foram utilizadas no NotebookLM:
 | https://www.icy-veins.com/wow/balance-druid-pve-dps-guide | Rotação e builds |
 | https://raider.io | Análise de builds e jogadores |
 | https://www.method.gg/guides/balance-druid | Estratégias avançadas |
-| Vídeos no YouTube | Explicações práticas |
+| Vídeos no YouTube: | Explicações práticas |
+| [ Tutorial Druida Equilíbrio - Season 1 Midnight [Completo PT/BR] - TriacaTV ](https://www.youtube.com/watch?v=Nqwxu62Nsmc&t=619s) | Guia Druida Balance|
+| [ Balance Druid Guide for Midnight! Basics, Opener, Rotation & More! - Tettles ](https://www.youtube.com/watch?v=c36AQQUb9lA) | Guia Druida Balance|
+| [ GUIA COMPLETO TORRE DO CAOS ⚔️ TODAS AS MECÂNICAS (HEAL, TANK e DPS) - Felipe Neli ](https://www.youtube.com/watch?v=TyyOKhrA1fM) | Guia Raid|
 
 ---
 
