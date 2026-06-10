@@ -23,11 +23,6 @@ O tema escolhido foi o estudo da especialização **Balance Druid** do jogo **Wo
 - Rotação da classe;
 - Builds;
 - Talentos;
-- Mythic+;
-- Raids;
-- Equipamentos;
-- Estratégias PvE;
-- Mecânicas do jogo.
 
 O objetivo principal foi demonstrar como ferramentas de IA podem auxiliar na:
 - organização de conhecimento;
@@ -42,7 +37,6 @@ O objetivo principal foi demonstrar como ferramentas de IA podem auxiliar na:
 
 - Aprender a jogar de forma eficiente com Balance Druid;
 - Estudar builds para diferentes conteúdos PvE;
-- Melhorar conhecimento sobre Mythic+ e Raids;
 - Aprender sobre equipamentos e prioridades de stats;
 - Explorar o NotebookLM como ferramenta de aprendizagem;
 - Documentar o processo de estudo utilizando IA.
@@ -76,7 +70,6 @@ As seguintes fontes abertas foram utilizadas no NotebookLM:
 | Vídeos no YouTube: | Explicações práticas |
 | [ Tutorial Druida Equilíbrio - Season 1 Midnight [Completo PT/BR] - TriacaTV ](https://www.youtube.com/watch?v=Nqwxu62Nsmc&t=619s) | Guia Druida Balance|
 | [ Balance Druid Guide for Midnight! Basics, Opener, Rotation & More! - Tettles ](https://www.youtube.com/watch?v=c36AQQUb9lA) | Guia Druida Balance|
-| [ GUIA COMPLETO TORRE DO CAOS ⚔️ TODAS AS MECÂNICAS (HEAL, TANK e DPS) - Felipe Neli ](https://www.youtube.com/watch?v=TyyOKhrA1fM) | Guia Raid|
 
 ---
 
@@ -139,8 +132,6 @@ Resumo consolidado sobre:
 - rotação;
 - builds;
 - stats;
-- mecânicas;
-- estratégias PvE.
 
 📄 Local:
 ```bash
