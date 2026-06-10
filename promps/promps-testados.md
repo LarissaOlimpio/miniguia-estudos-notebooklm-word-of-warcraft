@@ -69,7 +69,12 @@ gere um slide para eu visualizar melhor a rotação do druida para mítica e rai
 ```
 
 ### 📥 Resultado Obtido
-<img width="1567" height="617" alt="image" src="https://github.com/user-attachments/assets/ec212e40-2f24-4f37-9591-df9bd06490da" />
+
+<img width="1652" height="695" alt="image" src="https://github.com/user-attachments/assets/c80e8b01-6d48-4d2e-9459-fe80a5782443" />
+<img width="1660" height="707" alt="image" src="https://github.com/user-attachments/assets/0f17e4f1-e4f0-4612-8125-6c4e4fd96165" />
+<img width="1675" height="711" alt="image" src="https://github.com/user-attachments/assets/979dba14-fafa-49e4-9754-c4e99d4d671b" />
+
+
 
 ---
 
