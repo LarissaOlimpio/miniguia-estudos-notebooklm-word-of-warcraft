@@ -49,11 +49,8 @@ O Balance Druid é uma especialização ranged DPS focada em:
 
 - Rotação Single Target;
 - Rotação AoE;
-- Builds para Mythic+;
-- Builds para Raid;
 - Gerenciamento de cooldowns;
-- Equipamentos;
-- Estratégias PvE.
+
 
 ---
 
@@ -63,7 +60,6 @@ O Balance Druid é uma especialização ranged DPS focada em:
 - Uso correto de cooldowns;
 - Diferença entre builds de Raid e Mythic+;
 - Manutenção eficiente de DoTs;
-- Posicionamento em encontros PvE.
 
 ---
 
