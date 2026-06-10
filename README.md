@@ -202,5 +202,7 @@ Além do aprendizado sobre o jogo, o projeto também contribuiu para o desenvolv
 <div align="center">
 
 ## 🌙 Projeto desenvolvido para fins de estudo e prática com IA aplicada ao aprendizado
+<img width="1229" height="675" alt="image" src="https://github.com/user-attachments/assets/42922f22-a05c-4d3d-a3f9-5061e1bc47f9" />
+
 
 </div>
