@@ -1,6 +1,6 @@
 # 🛠️ Prompts Testados — NotebookLM
 
-Este documento reúne os principais prompts utilizados durante os estudos sobre Balance Druid utilizando o NotebookLM.
+Este documento reúne alguns dos principais prompts utilizados durante os estudos sobre Balance Druid utilizando o NotebookLM.
 
 ---
 
@@ -39,30 +39,7 @@ Boa para iniciantes, mas superficial para conteúdos avançados.
 
 ---
 
-# ✅ Prompt 2 — Rotação Mythic+
-
-## 📌 Objetivo
-Aprender prioridade de habilidades em grandes packs.
-
-### Prompt Utilizado
-
-```txt
-Explique a rotação do Balance Druid focando em Mythic+ de alto nível, incluindo prioridade de habilidades em grandes packs.
-```
-
-### 📥 Resultado Obtido
-A resposta incluiu:
-- uso de Starfall;
-- gerenciamento de cooldowns;
-- prioridade AoE;
-- geração eficiente de Astral Power.
-
-### 📈 Qualidade da Resposta
-Muito mais detalhada e útil para conteúdos PvE.
-
----
-
-# ✅ Prompt 3 — Builds
+# ✅ Prompt 2 — Builds
 
 ## 📌 Objetivo
 Comparar builds para diferentes conteúdos.
@@ -70,7 +47,7 @@ Comparar builds para diferentes conteúdos.
 ### Prompt Utilizado
 
 ```txt
-Compare as builds mais utilizadas de Balance Druid para Raid e Mythic+.
+seguindo essa árvore de talento que coloquei sobre o Wowhead não tem o convocar espíritos, dá uma olhada tbm na rotação indicada no Wowhead pra single target e pra mult target e refaz pra mim o guia de rotação
 ```
 
 ### 📥 Resultado Obtido
@@ -79,49 +56,23 @@ A IA mostrou:
 - builds para dano em área;
 - builds focadas em single target.
 
-### ⚠️ Problema Encontrado
-Algumas builds estavam desatualizadas.
-
 ---
-
-# ✅ Prompt 4 — Equipamentos
+# ✅ Prompt 3 — Slide
 
 ## 📌 Objetivo
-Aprender prioridades de equipamentos.
+Conteúdo visual sobre a rotação do Druida.
 
 ### Prompt Utilizado
 
 ```txt
-Liste os melhores trinkets para Balance Druid na temporada atual e explique quando utilizar cada um.
+gere um slide para eu visualizar melhor a rotação do druida para mítica e raids
 ```
 
 ### 📥 Resultado Obtido
-A IA organizou:
-- trinkets recomendados;
-- situações ideais;
-- prioridade de stats.
+<img width="1567" height="617" alt="image" src="https://github.com/user-attachments/assets/ec212e40-2f24-4f37-9591-df9bd06490da" />
 
 ---
 
-# ✅ Prompt 5 — Erros Comuns
-
-## 📌 Objetivo
-Identificar erros de jogadores iniciantes.
-
-### Prompt Utilizado
-
-```txt
-Quais são os maiores erros de jogadores iniciantes de Balance Druid em Mythic+?
-```
-
-### 📥 Resultado Obtido
-A IA destacou:
-- uso incorreto de cooldowns;
-- perda de Astral Power;
-- baixa manutenção de DoTs;
-- posicionamento ruim.
-
----
 
 # 📚 Aprendizados Sobre Engenharia de Prompt
 
@@ -131,7 +82,6 @@ Durante os testes foi possível perceber que:
 - contexto adicional melhora muito os resultados;
 - mencionar o tipo de conteúdo (Raid/Mythic+) ajuda a IA;
 - prompts genéricos produzem respostas superficiais;
-- fontes atualizadas são fundamentais.
 
 ---
 
