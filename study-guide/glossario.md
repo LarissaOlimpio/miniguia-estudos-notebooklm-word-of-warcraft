@@ -11,7 +11,6 @@
 | Proc | Ativação aleatória de efeitos |
 | Burst | Grande quantidade de dano em pouco tempo |
 | Build | Combinação de talentos e habilidades |
-| Trinket | Item de equipamento com efeito especial |
 | Single Target | Dano focado em um único alvo |
 | PvE | Conteúdo jogador contra ambiente |
 | DPS | Damage Per Second |
