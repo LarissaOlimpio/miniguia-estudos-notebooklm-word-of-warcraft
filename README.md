@@ -8,7 +8,6 @@ Projeto desenvolvido utilizando Inteligência Artificial e NotebookLM como ferra
 ![Markdown](https://img.shields.io/badge/Markdown-README-blue)
 ![NotebookLM](https://img.shields.io/badge/Google-NotebookLM-orange)
 ![World of Warcraft](https://img.shields.io/badge/Game-World%20of%20Warcraft-593196)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 
 </div>
 
@@ -65,7 +64,6 @@ As seguintes fontes abertas foram utilizadas no NotebookLM:
 |---|---|
 | https://www.wowhead.com/guide/classes/druid/balance/overview-pve-dps | Guia principal da especialização |
 | https://www.icy-veins.com/wow/balance-druid-pve-dps-guide | Rotação e builds |
-| https://raider.io | Análise de builds e jogadores |
 | https://www.method.gg/guides/balance-druid | Estratégias avançadas |
 | Vídeos no YouTube: | Explicações práticas |
 | [ Tutorial Druida Equilíbrio - Season 1 Midnight [Completo PT/BR] - TriacaTV ](https://www.youtube.com/watch?v=Nqwxu62Nsmc&t=619s) | Guia Druida Balance|
@@ -88,11 +86,7 @@ wow-balance-druid-notebooklm/
 │   ├── resumo-balance-druid.md
 │   ├── glossario.md
 │   └── prompts-reutilizaveis.md
-│
-├── images/
-│   ├── notebooklm-1.png
-│   ├── notebooklm-2.png
-│   └── notebooklm-3.png
+
 ```
 
 ---
@@ -103,10 +97,7 @@ wow-balance-druid-notebooklm/
 
 Arquivo contendo:
 - prompts utilizados;
-- testes realizados;
-- ajustes aplicados;
-- comparações de respostas;
-- melhorias obtidas.
+- resultados obtidos
 
 📄 Local:
 ```bash
