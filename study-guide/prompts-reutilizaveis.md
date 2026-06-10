@@ -12,22 +12,6 @@ Explique a rotação ideal de Balance Druid para iniciantes.
 
 ---
 
-# 💥 Mythic+
-
-```txt
-Quais são os maiores erros de jogadores iniciantes de Balance Druid em Mythic+?
-```
-
----
-
-# ⚔️ Raid
-
-```txt
-Explique quais mecânicas de raid exigem maior mobilidade do Balance Druid.
-```
-
----
-
 # 🧩 Builds
 
 ```txt
@@ -44,18 +28,10 @@ Quais stats devo priorizar para Balance Druid na temporada atual?
 
 ---
 
-# 🏆 Trinkets
-
-```txt
-Liste os melhores trinkets para Balance Druid na temporada atual e explique quando utilizar cada um.
-```
-
----
-
 # 📚 Revisão Rápida
 
 ```txt
-Resuma este guia em tópicos rápidos para revisão antes da raid.
+Resuma este guia em tópicos rápidos para revisão.
 ```
 
 ---
@@ -68,13 +44,6 @@ Explique este conteúdo como se estivesse ensinando um jogador iniciante.
 
 ---
 
-# 🔍 Comparação de Estratégias
-
-```txt
-Compare estratégias de Balance Druid para dungeons e raids.
-```
-
----
 
 # ✅ Objetivo dos Prompts
 
