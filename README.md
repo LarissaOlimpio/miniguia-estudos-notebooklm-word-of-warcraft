@@ -15,8 +15,6 @@ Projeto desenvolvido utilizando Inteligência Artificial e NotebookLM como ferra
 
 # 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um desafio prático focado no uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
-
 O tema escolhido foi o estudo da especialização **Balance Druid** do jogo **World of Warcraft**, utilizando o **NotebookLM** para organizar conhecimento, resumir conteúdos, testar prompts e acelerar o aprendizado sobre:
 
 - Rotação da classe;
